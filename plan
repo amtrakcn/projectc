@@ -1,0 +1,4 @@
+1. User can complete survey with or without logging in. If not, user will be directed to registration page.
+2. All survey results will be saved in records as json(question and answer text, question and answer id, 6-axis score)
+3. Old questions and answers will not be removed, question_id will change to -1 if not active
+4. Administrator will be able to modify content
